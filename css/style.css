@@ -342,13 +342,13 @@ input::placeholder {
 }
 
 .delivery::before {
-    content: url("/images/grape.png");
+    content: url("../images/grape.png");
     top: -70px;
     left: -35px;
 }
 
 .delivery::after {
-    content: url("/images/image.png");
+    content: url("../images/image.png");
     top: -70px;
     left: 900px;
 }
